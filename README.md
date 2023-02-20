@@ -1,6 +1,6 @@
 # DotnetCoreCRUDAPI
 Hi All, I have just checked-in the CRUD API made in DotNetCore 6.0 for the begineers. In this API I tried to cover basic concepts for those who just started their careers as Dotnet Backend Developers.
-## Following are the main things to know as a fresher to make things simple and it will be easy for you guys to continue without messing up the things.
+Following are the main things to know as a fresher to make things simple and it will be easy for you guys to continue without messing up the things.
 - **Dotnet WebAPI**
 	- Language: C#
 	- Make a Web API having an empty controller
